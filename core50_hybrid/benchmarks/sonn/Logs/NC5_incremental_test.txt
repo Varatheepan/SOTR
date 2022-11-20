@@ -1,0 +1,91 @@
+10 class fc
+Testing with weighted inverse distance matric for GWR
+###   Train on task 0   ###
+training set:  1199
+CNN model epoch----- :  1
+CNN model epoch----- :  2
+CNN model epoch----- :  3
+CNN model epoch----- :  4
+CNN model epoch----- :  5
+CNN model epoch----- :  6
+CNN model epoch----- :  7
+CNN model epoch----- :  8
+CNN model epoch----- :  9
+CNN model epoch----- :  10
+training GWR..
+torch.Size([1130, 512])
+torch.Size([1130])
+time taken for nca and knn 0.3863508701324463
+###   Train on task 1   ###
+training set:  1199
+CNN model epoch----- :  1
+CNN model epoch----- :  2
+CNN model epoch----- :  3
+CNN model epoch----- :  4
+CNN model epoch----- :  5
+CNN model epoch----- :  6
+CNN model epoch----- :  7
+CNN model epoch----- :  8
+CNN model epoch----- :  9
+CNN model epoch----- :  10
+training GWR..
+torch.Size([2174, 512])
+torch.Size([2174])
+time taken for nca and knn 0.5404398441314697
+###   Train on task 2   ###
+training set:  1200
+CNN model epoch----- :  1
+CNN model epoch----- :  2
+CNN model epoch----- :  3
+CNN model epoch----- :  4
+CNN model epoch----- :  5
+CNN model epoch----- :  6
+CNN model epoch----- :  7
+CNN model epoch----- :  8
+CNN model epoch----- :  9
+CNN model epoch----- :  10
+training GWR..
+torch.Size([3281, 512])
+torch.Size([3281])
+time taken for nca and knn 0.6474626064300537
+###   Train on task 3   ###
+training set:  1200
+CNN model epoch----- :  1
+CNN model epoch----- :  2
+CNN model epoch----- :  3
+CNN model epoch----- :  4
+CNN model epoch----- :  5
+CNN model epoch----- :  6
+CNN model epoch----- :  7
+CNN model epoch----- :  8
+CNN model epoch----- :  9
+CNN model epoch----- :  10
+training GWR..
+torch.Size([4357, 512])
+torch.Size([4357])
+time taken for nca and knn 0.8635787963867188
+###   Train on task 4   ###
+training set:  1200
+CNN model epoch----- :  1
+CNN model epoch----- :  2
+CNN model epoch----- :  3
+CNN model epoch----- :  4
+CNN model epoch----- :  5
+CNN model epoch----- :  6
+CNN model epoch----- :  7
+CNN model epoch----- :  8
+CNN model epoch----- :  9
+CNN model epoch----- :  10
+training GWR..
+torch.Size([5395, 512])
+torch.Size([5395])
+time taken for nca and knn 1.1101269721984863
+gwr_overall_list:  [20.008892841262785, 38.50600266785238, 55.624722098710535, 74.65540240106714, 89.86216096042685]
+gwr_cat_list:  [tensor([100.,   0.,   0.,   0.,   0.]), tensor([96.8889, 95.5556,  0.0000,  0.0000,  0.0000]), tensor([96.2222, 90.6667, 91.1111,  0.0000,  0.0000]), tensor([95.5556, 89.5556, 92.2222, 95.9911,  0.0000]), tensor([92.2222, 88.2222, 89.1111, 93.5412, 86.2222])]
+mh_overall_list:  [19.60871498443753, 38.15028901734104, 55.31347265451312, 74.12183192530013, 89.239662072032]
+mh_cat_list:  [tensor([97.7778, 98.2222,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([97.3333, 94.6667, 97.7778, 91.5556,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([96.4444, 94.2222, 91.1111, 89.3333, 96.4444, 85.3333,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([96.0000, 92.8889, 90.2222, 87.5556, 96.8889, 86.2222, 99.5536, 92.0000,
+         0.0000,  0.0000]), tensor([94.6667, 88.4444, 88.8889, 86.2222, 96.4444, 80.8889, 98.2143, 88.8889,
+        89.7778, 80.0000])]

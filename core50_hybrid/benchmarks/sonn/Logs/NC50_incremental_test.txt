@@ -1,0 +1,1889 @@
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 0.6835982799530029
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 0.5773251056671143
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 0.7571594715118408
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 0.6837952136993408
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.288755178451538
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.399120807647705
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.328986406326294
+x:  torch.Size([1, 256, 6, 6])
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.367445945739746
+x:  torch.Size([1, 256, 6, 6])
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+0
+CNN model epoch----- :  1
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.2800920009613037
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+x:  torch.Size([1, 512, 7, 7])
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.2956657409667969
+average inference time:  0.016052758428785535
+###   Train on task 10   ###
+2
+object label:  11
+head_id_occ:  [0, 1, 2]
+###   Train on task 11   ###
+2
+object label:  12
+head_id_occ:  [0, 1, 2]
+###   Train on task 12   ###
+2
+object label:  13
+head_id_occ:  [0, 1, 2]
+###   Train on task 13   ###
+2
+object label:  14
+head_id_occ:  [0, 1, 2]
+###   Train on task 14   ###
+2
+object label:  15
+head_id_occ:  [0, 1, 2]
+###   Train on task 15   ###
+3
+object label:  16
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 16   ###
+3
+object label:  17
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 17   ###
+3
+object label:  18
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 18   ###
+3
+object label:  19
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 19   ###
+3
+object label:  20
+head_id_occ:  [0, 1, 2, 3]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.3717303276062012
+average inference time:  0.015970427513122557
+###   Train on task 20   ###
+4
+object label:  21
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 21   ###
+4
+object label:  22
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 22   ###
+4
+object label:  23
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 23   ###
+4
+object label:  24
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 24   ###
+4
+object label:  25
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 25   ###
+5
+object label:  26
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 26   ###
+5
+object label:  27
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 27   ###
+5
+object label:  28
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 28   ###
+5
+object label:  29
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 29   ###
+5
+object label:  30
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.2770040035247803
+average inference time:  0.016040962219238283
+###   Train on task 30   ###
+6
+object label:  31
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 31   ###
+6
+object label:  32
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 32   ###
+6
+object label:  33
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 33   ###
+6
+object label:  34
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 34   ###
+6
+object label:  35
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 35   ###
+7
+object label:  36
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 36   ###
+7
+object label:  37
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 37   ###
+7
+object label:  38
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 38   ###
+7
+object label:  39
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 39   ###
+7
+object label:  40
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.2991464138031006
+average inference time:  0.016023071077134875
+###   Train on task 40   ###
+8
+object label:  41
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 41   ###
+8
+object label:  42
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 42   ###
+8
+object label:  43
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 43   ###
+8
+object label:  44
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 44   ###
+8
+object label:  45
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 45   ###
+9
+object label:  46
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 46   ###
+9
+object label:  47
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 47   ###
+9
+object label:  48
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 48   ###
+9
+object label:  49
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 49   ###
+9
+object label:  50
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.2490792274475098
+average inference time:  0.016005233022901747
+gwr_overall_list:  [89.02222222222223, 88.93333333333334, 89.24444444444445, 88.93333333333334, 89.06666666666668]
+gwr_cat_list:  [tensor([92.4444, 91.5556, 83.5556, 83.5556, 95.1111, 91.5556, 98.6667, 85.7778,
+        88.0000, 80.0000]), tensor([92.4444, 91.1111, 82.6667, 84.4444, 94.6667, 92.0000, 98.6667, 85.3333,
+        88.0000, 80.0000]), tensor([92.4444, 91.5556, 84.0000, 84.4444, 94.6667, 91.5556, 98.6667, 86.2222,
+        88.0000, 80.8889]), tensor([92.4444, 91.1111, 83.5556, 83.5556, 94.6667, 92.8889, 98.6667, 84.4444,
+        88.0000, 80.0000]), tensor([92.4444, 91.1111, 84.0000, 83.5556, 95.1111, 91.5556, 98.6667, 85.7778,
+        88.0000, 80.4444])]
+mh_overall_list:  [71.15555555555557, 70.93333333333334, 71.24444444444444, 70.88888888888889, 71.06666666666666]
+mh_cat_list:  [tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  46.6667,
+         71.1111,  60.0000,  77.7778,  48.8889,  75.5556,  37.7778,  64.4444,
+         93.3333,  48.8889,  53.3333, 100.0000,  77.7778,  66.6667,  44.4444,
+         62.2222,  71.1111,  80.0000,  93.3333,  44.4444,  22.2222,  84.4444,
+         75.5556,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  75.5556,  75.5556,  68.8889,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  64.4444,  86.6667,  80.0000,  68.8889,
+         73.3333]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  44.4444,
+         71.1111,  60.0000,  77.7778,  48.8889,  73.3333,  37.7778,  64.4444,
+         91.1111,  48.8889,  51.1111, 100.0000,  77.7778,  71.1111,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  44.4444,  22.2222,  84.4444,
+         73.3333,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  75.5556,  73.3333,  68.8889,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  64.4444,  86.6667,  80.0000,  68.8889,
+         73.3333]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  46.6667,
+         71.1111,  60.0000,  77.7778,  48.8889,  73.3333,  37.7778,  66.6667,
+         93.3333,  48.8889,  51.1111, 100.0000,  77.7778,  71.1111,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  44.4444,  22.2222,  86.6667,
+         73.3333,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  75.5556,  75.5556,  71.1111,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  66.6667,  86.6667,  80.0000,  68.8889,
+         73.3333]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  44.4444,
+         71.1111,  60.0000,  77.7778,  48.8889,  73.3333,  37.7778,  64.4444,
+         93.3333,  48.8889,  51.1111, 100.0000,  77.7778,  66.6667,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  46.6667,  22.2222,  84.4444,
+         75.5556,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  71.1111,  75.5556,  66.6667,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  64.4444,  86.6667,  80.0000,  68.8889,
+         73.3333]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  80.0000,  46.6667,
+         71.1111,  60.0000,  77.7778,  48.8889,  73.3333,  40.0000,  64.4444,
+         93.3333,  48.8889,  51.1111, 100.0000,  77.7778,  66.6667,  44.4444,
+         62.2222,  71.1111,  80.0000,  93.3333,  44.4444,  22.2222,  84.4444,
+         73.3333,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  73.3333,  77.7778,  68.8889,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  66.6667,  86.6667,  80.0000,  68.8889,
+         73.3333])]
+gwr_overall:  89.04
+mh_overall_list:  71.05777777777777
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([492, 512])
+torch.Size([492])
+time taken for nca and knn 0.14815998077392578
+average inference time:  0.012630397054884168
+###   Train on task 10   ###
+2
+object label:  11
+head_id_occ:  [0, 1, 2]
+###   Train on task 11   ###
+2
+object label:  12
+head_id_occ:  [0, 1, 2]
+###   Train on task 12   ###
+2
+object label:  13
+head_id_occ:  [0, 1, 2]
+###   Train on task 13   ###
+2
+object label:  14
+head_id_occ:  [0, 1, 2]
+###   Train on task 14   ###
+2
+object label:  15
+head_id_occ:  [0, 1, 2]
+###   Train on task 15   ###
+3
+object label:  16
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 16   ###
+3
+object label:  17
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 17   ###
+3
+object label:  18
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 18   ###
+3
+object label:  19
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 19   ###
+3
+object label:  20
+head_id_occ:  [0, 1, 2, 3]
+positions:  10
+torch.Size([973, 512])
+torch.Size([973])
+time taken for nca and knn 0.2748122215270996
+average inference time:  0.013065734333462186
+###   Train on task 20   ###
+4
+object label:  21
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 21   ###
+4
+object label:  22
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 22   ###
+4
+object label:  23
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 23   ###
+4
+object label:  24
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 24   ###
+4
+object label:  25
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 25   ###
+5
+object label:  26
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 26   ###
+5
+object label:  27
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 27   ###
+5
+object label:  28
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 28   ###
+5
+object label:  29
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 29   ###
+5
+object label:  30
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+positions:  10
+torch.Size([1456, 512])
+torch.Size([1456])
+time taken for nca and knn 0.4426727294921875
+average inference time:  0.013402921782599555
+###   Train on task 30   ###
+6
+object label:  31
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 31   ###
+6
+object label:  32
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 32   ###
+6
+object label:  33
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 33   ###
+6
+object label:  34
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 34   ###
+6
+object label:  35
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 35   ###
+7
+object label:  36
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 36   ###
+7
+object label:  37
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 37   ###
+7
+object label:  38
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 38   ###
+7
+object label:  39
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 39   ###
+7
+object label:  40
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+positions:  10
+torch.Size([1950, 512])
+torch.Size([1950])
+time taken for nca and knn 0.600374698638916
+average inference time:  0.01413986619313558
+###   Train on task 40   ###
+8
+object label:  41
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 41   ###
+8
+object label:  42
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 42   ###
+8
+object label:  43
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 43   ###
+8
+object label:  44
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 44   ###
+8
+object label:  45
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 45   ###
+9
+object label:  46
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 46   ###
+9
+object label:  47
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 47   ###
+9
+object label:  48
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 48   ###
+9
+object label:  49
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 49   ###
+9
+object label:  50
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+positions:  10
+torch.Size([2436, 512])
+torch.Size([2436])
+time taken for nca and knn 0.705451488494873
+average inference time:  0.014221139907836914
+gwr_overall_list:  [10.0, 19.333333333333332, 28.666666666666668, 37.51111111111111, 46.71111111111111]
+gwr_cat_list:  [tensor([100.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.,   0.]), tensor([95.1111, 98.2222,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([95.5556, 95.5556, 95.5556,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([94.2222, 95.5556, 95.5556, 89.7778,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([94.6667, 95.5556, 94.6667, 87.1111, 95.1111,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000])]
+mh_overall_list:  [5.555555555555555, 12.533333333333333, 19.511111111111113, 26.48888888888889, 33.28888888888889]
+mh_cat_list:  [tensor([71.1111, 37.7778, 51.1111, 22.2222, 95.5556,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([68.8889, 37.7778, 51.1111, 22.2222, 86.6667, 82.2222, 46.6667, 71.1111,
+        68.8889, 91.1111,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([68.8889, 37.7778, 51.1111, 22.2222, 88.8889, 82.2222, 46.6667, 71.1111,
+        68.8889, 82.2222, 53.3333, 80.0000, 42.2222, 82.2222, 97.7778,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([68.8889, 37.7778, 51.1111, 22.2222, 86.6667, 82.2222, 46.6667, 71.1111,
+        68.8889, 82.2222, 53.3333, 80.0000, 42.2222, 82.2222, 97.7778, 48.8889,
+        51.1111, 97.7778, 80.0000, 73.3333,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([68.8889, 37.7778, 51.1111, 22.2222, 86.6667, 82.2222, 46.6667, 71.1111,
+        68.8889, 82.2222, 53.3333, 80.0000, 40.0000, 82.2222, 97.7778, 48.8889,
+        51.1111, 97.7778, 77.7778, 68.8889, 44.4444, 62.2222, 71.1111, 80.0000,
+        91.1111,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000])]
+gwr_overall:  28.444444444444446
+mh_overall_list:  19.475555555555555
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([973, 512])
+torch.Size([973])
+time taken for nca and knn 0.2964920997619629
+average inference time:  0.013251413027445475
+###   Train on task 10   ###
+2
+object label:  11
+head_id_occ:  [0, 1, 2]
+###   Train on task 11   ###
+2
+object label:  12
+head_id_occ:  [0, 1, 2]
+###   Train on task 12   ###
+2
+object label:  13
+head_id_occ:  [0, 1, 2]
+###   Train on task 13   ###
+2
+object label:  14
+head_id_occ:  [0, 1, 2]
+###   Train on task 14   ###
+2
+object label:  15
+head_id_occ:  [0, 1, 2]
+###   Train on task 15   ###
+3
+object label:  16
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 16   ###
+3
+object label:  17
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 17   ###
+3
+object label:  18
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 18   ###
+3
+object label:  19
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 19   ###
+3
+object label:  20
+head_id_occ:  [0, 1, 2, 3]
+positions:  10
+torch.Size([1950, 512])
+torch.Size([1950])
+time taken for nca and knn 0.6683495044708252
+average inference time:  0.01416598892211914
+###   Train on task 20   ###
+4
+object label:  21
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 21   ###
+4
+object label:  22
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 22   ###
+4
+object label:  23
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 23   ###
+4
+object label:  24
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 24   ###
+4
+object label:  25
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 25   ###
+5
+object label:  26
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 26   ###
+5
+object label:  27
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 27   ###
+5
+object label:  28
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 28   ###
+5
+object label:  29
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 29   ###
+5
+object label:  30
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+positions:  10
+torch.Size([2921, 512])
+torch.Size([2921])
+time taken for nca and knn 0.8528683185577393
+average inference time:  0.014783930142720541
+###   Train on task 30   ###
+6
+object label:  31
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 31   ###
+6
+object label:  32
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 32   ###
+6
+object label:  33
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 33   ###
+6
+object label:  34
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 34   ###
+6
+object label:  35
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 35   ###
+7
+object label:  36
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 36   ###
+7
+object label:  37
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 37   ###
+7
+object label:  38
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 38   ###
+7
+object label:  39
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 39   ###
+7
+object label:  40
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+positions:  10
+torch.Size([3954, 512])
+torch.Size([3954])
+time taken for nca and knn 1.0564594268798828
+average inference time:  0.01606229485405816
+###   Train on task 40   ###
+8
+object label:  41
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 41   ###
+8
+object label:  42
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 42   ###
+8
+object label:  43
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 43   ###
+8
+object label:  44
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 44   ###
+8
+object label:  45
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 45   ###
+9
+object label:  46
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 46   ###
+9
+object label:  47
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 47   ###
+9
+object label:  48
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 48   ###
+9
+object label:  49
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 49   ###
+9
+object label:  50
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.361741542816162
+average inference time:  0.01663719230228
+gwr_overall_list:  [19.333333333333332, 37.6, 54.888888888888886, 73.46666666666667, 88.93333333333334]
+gwr_cat_list:  [tensor([95.1111, 98.2222,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([94.2222, 96.0000, 95.5556, 90.2222,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([92.8889, 95.1111, 86.2222, 86.2222, 95.1111, 93.3333,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([ 92.8889,  94.6667,  85.7778,  87.1111,  94.6667,  93.7778, 100.0000,
+         85.7778,   0.0000,   0.0000]), tensor([92.4444, 91.5556, 82.6667, 84.0000, 94.6667, 92.0000, 98.6667, 84.8889,
+        88.0000, 80.4444])]
+mh_overall_list:  [12.533333333333333, 26.57777777777778, 39.15555555555555, 56.8, 70.97777777777777]
+mh_cat_list:  [tensor([68.8889, 37.7778, 51.1111, 22.2222, 86.6667, 82.2222, 46.6667, 71.1111,
+        68.8889, 91.1111,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([68.8889, 37.7778, 51.1111, 22.2222, 86.6667, 82.2222, 46.6667, 71.1111,
+        68.8889, 84.4444, 53.3333, 80.0000, 42.2222, 82.2222, 97.7778, 48.8889,
+        51.1111, 97.7778, 80.0000, 75.5556,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  46.6667,
+         71.1111,  68.8889,  82.2222,  48.8889,  75.5556,  37.7778,  71.1111,
+         95.5556,  48.8889,  53.3333, 100.0000,  77.7778,  64.4444,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  44.4444,  22.2222,  91.1111,
+         75.5556,  84.4444,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,
+          0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,
+          0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,
+          0.0000]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  46.6667,
+         71.1111,  68.8889,  82.2222,  48.8889,  75.5556,  40.0000,  68.8889,
+         93.3333,  48.8889,  51.1111,  97.7778,  77.7778,  73.3333,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  44.4444,  22.2222,  91.1111,
+         77.7778,  84.4444, 100.0000,  80.0000, 100.0000, 100.0000,  97.7778,
+         95.5556,  84.4444,  73.3333,  73.3333,  73.3333,   0.0000,   0.0000,
+          0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,
+          0.0000]), tensor([ 68.8889,  37.7778,  51.1111,  22.2222,  86.6667,  82.2222,  46.6667,
+         71.1111,  60.0000,  77.7778,  48.8889,  73.3333,  37.7778,  64.4444,
+         93.3333,  48.8889,  51.1111, 100.0000,  77.7778,  68.8889,  44.4444,
+         62.2222,  71.1111,  80.0000,  91.1111,  44.4444,  22.2222,  84.4444,
+         73.3333,  84.4444, 100.0000,  77.7778, 100.0000, 100.0000,  95.5556,
+         93.3333,  86.6667,  71.1111,  75.5556,  68.8889,  71.1111,  48.8889,
+         88.8889,  73.3333,  95.5556,  66.6667,  86.6667,  80.0000,  68.8889,
+         73.3333])]
+gwr_overall:  54.84444444444445
+mh_overall_list:  41.208888888888886
+KNN bayesian || n: 8|| weight: 'distance' || p: 2 || algorithm: 'auto' || dataset- ::10
+with pca analysis transform & only fc at the end  || n_components = 200
+###   Train on task 0   ###
+0
+object label:  1
+head_id_occ:  [0]
+###   Train on task 1   ###
+0
+object label:  2
+head_id_occ:  [0]
+###   Train on task 2   ###
+0
+object label:  3
+head_id_occ:  [0]
+###   Train on task 3   ###
+0
+object label:  4
+head_id_occ:  [0]
+###   Train on task 4   ###
+0
+object label:  5
+head_id_occ:  [0]
+###   Train on task 5   ###
+1
+object label:  6
+head_id_occ:  [0, 1]
+###   Train on task 6   ###
+1
+object label:  7
+head_id_occ:  [0, 1]
+###   Train on task 7   ###
+1
+object label:  8
+head_id_occ:  [0, 1]
+###   Train on task 8   ###
+1
+object label:  9
+head_id_occ:  [0, 1]
+###   Train on task 9   ###
+1
+object label:  10
+head_id_occ:  [0, 1]
+positions:  10
+torch.Size([973, 512])
+torch.Size([973])
+time taken for nca and knn 0.322904109954834
+average inference time:  0.03399497720930311
+###   Train on task 10   ###
+2
+object label:  11
+head_id_occ:  [0, 1, 2]
+###   Train on task 11   ###
+2
+object label:  12
+head_id_occ:  [0, 1, 2]
+###   Train on task 12   ###
+2
+object label:  13
+head_id_occ:  [0, 1, 2]
+###   Train on task 13   ###
+2
+object label:  14
+head_id_occ:  [0, 1, 2]
+###   Train on task 14   ###
+2
+object label:  15
+head_id_occ:  [0, 1, 2]
+###   Train on task 15   ###
+3
+object label:  16
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 16   ###
+3
+object label:  17
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 17   ###
+3
+object label:  18
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 18   ###
+3
+object label:  19
+head_id_occ:  [0, 1, 2, 3]
+###   Train on task 19   ###
+3
+object label:  20
+head_id_occ:  [0, 1, 2, 3]
+positions:  10
+torch.Size([1950, 512])
+torch.Size([1950])
+time taken for nca and knn 0.6021041870117188
+average inference time:  0.054396120813157825
+###   Train on task 20   ###
+4
+object label:  21
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 21   ###
+4
+object label:  22
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 22   ###
+4
+object label:  23
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 23   ###
+4
+object label:  24
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 24   ###
+4
+object label:  25
+head_id_occ:  [0, 1, 2, 3, 4]
+###   Train on task 25   ###
+5
+object label:  26
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 26   ###
+5
+object label:  27
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 27   ###
+5
+object label:  28
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 28   ###
+5
+object label:  29
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+###   Train on task 29   ###
+5
+object label:  30
+head_id_occ:  [0, 1, 2, 3, 4, 5]
+positions:  10
+torch.Size([2921, 512])
+torch.Size([2921])
+time taken for nca and knn 0.803760290145874
+average inference time:  0.07351961602105035
+###   Train on task 30   ###
+6
+object label:  31
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 31   ###
+6
+object label:  32
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 32   ###
+6
+object label:  33
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 33   ###
+6
+object label:  34
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 34   ###
+6
+object label:  35
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6]
+###   Train on task 35   ###
+7
+object label:  36
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 36   ###
+7
+object label:  37
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 37   ###
+7
+object label:  38
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 38   ###
+7
+object label:  39
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+###   Train on task 39   ###
+7
+object label:  40
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7]
+positions:  10
+torch.Size([3954, 512])
+torch.Size([3954])
+time taken for nca and knn 1.1067991256713867
+average inference time:  0.09569708654615613
+###   Train on task 40   ###
+8
+object label:  41
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 41   ###
+8
+object label:  42
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 42   ###
+8
+object label:  43
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 43   ###
+8
+object label:  44
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 44   ###
+8
+object label:  45
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8]
+###   Train on task 45   ###
+9
+object label:  46
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 46   ###
+9
+object label:  47
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 47   ###
+9
+object label:  48
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 48   ###
+9
+object label:  49
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+###   Train on task 49   ###
+9
+object label:  50
+head_id_occ:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+positions:  10
+torch.Size([4958, 512])
+torch.Size([4958])
+time taken for nca and knn 1.318479061126709
+average inference time:  0.1159885908762614
+gwr_overall_list:  [19.377777777777776, 37.55555555555555, 55.333333333333336, 73.64444444444445, 89.06666666666668]
+gwr_cat_list:  [tensor([95.1111, 98.6667,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([95.5556, 95.1111, 93.7778, 91.1111,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([94.6667, 94.6667, 88.0000, 88.0000, 96.0000, 92.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([ 94.2222,  94.2222,  86.2222,  87.5556,  96.0000,  90.6667, 100.0000,
+         87.5556,   0.0000,   0.0000]), tensor([92.4444, 91.1111, 82.2222, 84.0000, 95.5556, 89.7778, 98.6667, 85.3333,
+        89.7778, 81.7778])]
+mh_overall_list:  [12.577777777777776, 26.53333333333333, 39.46666666666667, 57.24444444444444, 71.2]
+mh_cat_list:  [tensor([68.8889, 37.7778, 51.1111, 22.2222, 88.8889, 82.2222, 46.6667, 71.1111,
+        68.8889, 91.1111,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([71.1111, 37.7778, 51.1111, 22.2222, 91.1111, 82.2222, 46.6667, 71.1111,
+        68.8889, 82.2222, 53.3333, 80.0000, 42.2222, 75.5556, 95.5556, 48.8889,
+        51.1111, 97.7778, 84.4444, 73.3333,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([71.1111, 37.7778, 51.1111, 22.2222, 88.8889, 82.2222, 46.6667, 71.1111,
+        68.8889, 80.0000, 46.6667, 73.3333, 40.0000, 73.3333, 95.5556, 48.8889,
+        51.1111, 97.7778, 80.0000, 73.3333, 44.4444, 62.2222, 71.1111, 82.2222,
+        95.5556, 44.4444, 22.2222, 91.1111, 77.7778, 82.2222,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000]), tensor([ 71.1111,  37.7778,  51.1111,  22.2222,  88.8889,  82.2222,  46.6667,
+         71.1111,  68.8889,  82.2222,  46.6667,  75.5556,  40.0000,  68.8889,
+         97.7778,  48.8889,  53.3333,  97.7778,  80.0000,  73.3333,  44.4444,
+         62.2222,  71.1111,  82.2222,  95.5556,  44.4444,  22.2222,  91.1111,
+         73.3333,  84.4444, 100.0000,  80.0000, 100.0000, 100.0000,  97.7778,
+         95.5556,  88.8889,  75.5556,  75.5556,  73.3333,   0.0000,   0.0000,
+          0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,   0.0000,
+          0.0000]), tensor([ 68.8889,  35.5556,  51.1111,  22.2222,  86.6667,  77.7778,  46.6667,
+         71.1111,  62.2222,  80.0000,  48.8889,  73.3333,  37.7778,  62.2222,
+         86.6667,  48.8889,  51.1111,  97.7778,  80.0000,  71.1111,  46.6667,
+         62.2222,  71.1111,  80.0000,  93.3333,  44.4444,  22.2222,  82.2222,
+         75.5556,  86.6667, 100.0000,  77.7778,  97.7778, 100.0000,  95.5556,
+         91.1111,  84.4444,  73.3333,  77.7778,  68.8889,  71.1111,  51.1111,
+         93.3333,  80.0000,  95.5556,  66.6667,  84.4444,  80.0000,  68.8889,
+         77.7778])]
+gwr_overall:  54.995555555555555
+mh_overall_list:  41.40444444444445
